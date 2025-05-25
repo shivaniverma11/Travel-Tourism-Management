@@ -1,3 +1,9 @@
+Shivani Verma - 24SCSE1180564 
+Sneha Kumari-
+24SCSE1180010
+Ayush Kumar jha-
+24SCSE1180592
+
 # Travel-Tourism-Management
 This is a simple Travel Tourism Management System designed to allow users to browse available tour packages , book a tour, and manage customer information .The system is built using Java for the application logic and MySQL for the backend database.
 FEATURES:
